@@ -10,7 +10,7 @@ enum PingUnit {
 /**
  * Sonar and ping utilities
  */
-//% color="#D2691E" weight=10 icon="\uf16e" block="B_超声波传感器"
+//% color="#191970" weight=10 icon="\uf16e" block="B_超声波传感器"
 namespace sonar {
     /**
      * Send a ping and get the echo time (in microseconds) as a result
