@@ -1,0 +1,17 @@
+{
+    "name": "sonar_cn",
+    "version": "0.0.5",
+    "description": "超声波传感器的makecode中文模块",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
